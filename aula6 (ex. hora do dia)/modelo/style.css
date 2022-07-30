@@ -1,7 +1,7 @@
 
 body{
     background-color: rgba(71, 123, 201, 0.808);
-    font: normal 17px arial;
+    font: bold 17px arial;
 }
 header {
     color: white;
@@ -22,5 +22,10 @@ footer{
     text-align: center;
     font-style: italic;
     font-size: 0.8em;
+    
 
+}
+div{
+    text-align: center;
+    padding: 8px;
 }
