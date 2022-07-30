@@ -28,4 +28,10 @@ footer{
 div{
     text-align: center;
     padding: 8px;
+    
+}
+img#imagem{
+    width: 350px;
+    height: 200px;
+    
 }
