@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgba(71, 123, 201, 0.808);
+    font: bold 17px arial;
+}
+header {
+    color: white;
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 10px 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+}
+select#flista{
+    width: 150px;
+}
+footer{
+
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+    
+
+}
+div{
+    
+    padding: 10px;
+    
+}
+img#imagem{
+    width: 350px;
+    height: 200px;
+    
+}
